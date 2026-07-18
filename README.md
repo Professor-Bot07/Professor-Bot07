@@ -134,7 +134,7 @@ me.say_hi()
 <br>
 
 <!-- Trophies - Full Config -->
-<img src="https://github-profile-trophy.vercel.app/?username=Professor-Bot07&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=Professor-Bot07&theme=onedark&no-frame=true&no-bg=true&column=4" />
 
 </div>
 
