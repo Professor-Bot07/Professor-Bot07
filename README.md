@@ -69,11 +69,6 @@ me.say_hi()
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,react,nextjs,nodejs,express,tailwind,flutter,git,docker,linux,vscode,prisma,mongodb&perline=9" />
-
-
-
-
-
 https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black
 https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white
 https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white
@@ -96,7 +91,6 @@ https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudioco
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25" /> Connect With Me
 
 <div align="center">
-
 https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
 https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
@@ -114,7 +108,6 @@ https://img.shields.io/badge/Portfolio-6E40C9?style=for-the-badge&logo=vercel&lo
 <div align="center">
 
 <br>
-
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Professor-Bot07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Professor-Bot07&theme=tokyonight&layout=compact&hide_border=true&langs_count=8" />
 
@@ -139,7 +132,6 @@ https://img.shields.io/badge/Portfolio-6E40C9?style=for-the-badge&logo=vercel&lo
 <div align="center">
 
 <br>
-
 <img src="https://github-profile-trophy.vercel.app/?username=Professor-Bot07&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" />
 
 </div>
@@ -149,7 +141,6 @@ https://img.shields.io/badge/Portfolio-6E40C9?style=for-the-badge&logo=vercel&lo
 🔴 Status
 
 <div align="center">
-
 https://img.shields.io/badge/STATUS-ACTIVE-6e40c9?style=for-the-badge&logo=github&logoColor=white
 https://img.shields.io/badge/CODING-DAY%20%26%20NIGHT-39ff14?style=for-the-badge&logo=codeforces&logoColor=black
 
@@ -160,12 +151,7 @@ https://img.shields.io/badge/CODING-DAY%20%26%20NIGHT-39ff14?style=for-the-badge
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="90" />
 
 <br>
-
 https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black
-
-
-
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=120&section=footer" />
 
