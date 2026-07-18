@@ -111,19 +111,19 @@ me.say_hi()
 
 <br>
 
-## 📊 GitHub Stats
+<!-- Stats Card -->
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Professor-Bot07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Professor-Bot07&theme=tokyonight&layout=compact&hide_border=true&langs_count=8" />
 
-<div align="center">
+<br><br>
 
-<!-- Stats -->
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Professor-Bot07&show_icons=true&theme=radical&hide_border=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Professor-Bot07&theme=radical&layout=compact&hide_border=true" />
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Professor-Bot07&theme=tokyonight&hide_border=true" />
 
-<!-- Streak -->
-<img src="https://streak-stats.demolab.com?user=Professor-Bot07&theme=radical&hide_border=true" />
+<br><br>
 
-<!-- Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Professor-Bot07&theme=radical&hide_border=true&area=true" width="98%" />
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Professor-Bot07&theme=tokyo-night&hide_border=true&area=true" width="98%" />
 
 </div>
 
