@@ -139,17 +139,3 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=120&section=footer" />
 
 </div>
-
-<!-- ওয়েদার -->
-<img src="https://weather-badge.vercel.app/api?city=Dhaka&country=BD" />
-
-<!-- লাইভ স্ট্যাটাস -->
-<img src="https://img.shields.io/badge/STATUS-CODING-39ff14?style=for-the-badge" />
-
-<!-- কাস্টম ডিজাইন -->
-<svg width="400" height="100">
-  <rect width="400" height="100" style="fill:rgb(110,64,201);" />
-  <text x="20" y="50" font-family="Arial" font-size="30" fill="white">
-    Hello! I'm Raihan
-  </text>
-</svg>
