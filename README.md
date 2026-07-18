@@ -24,7 +24,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25" /> About Me
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30" /> About Me
 
 <div align="center">
 
@@ -105,22 +105,25 @@ me.say_hi()
 
 ---
 
-## <img src="https://media.giphy.com/media/3og0IPO4Ww3vTkBLAw/giphy.gif" width="25" /> GitHub Stats
+## <img src="https://media.giphy.com/media/3o7abKhOpu0N9H8N5y/giphy.gif" width="25" /> GitHub Stats
 
 <div align="center">
 
 <br>
 
+<!-- Stats Cards -->
 <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Professor-Bot07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Professor-Bot07&theme=tokyonight&layout=compact&hide_border=true&langs_count=8" />
 
 <br><br>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Professor-Bot07&theme=tokyonight&hide_border=true" />
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=Professor-Bot07&theme=tokyonight&hide_border=true" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Professor-Bot07&theme=tokyo-night&hide_border=true&area=true" width="98%" />
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Professor-Bot07&theme=react-dark&hide_border=true&area=true" width="98%" />
 
 </div>
 
@@ -132,7 +135,7 @@ me.say_hi()
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Professor-Bot07&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=Professor-Bot07&theme=onestar&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" />
 
 </div>
 
@@ -147,6 +150,7 @@ me.say_hi()
 
 <br><br>
 
+<!-- Working Gif -->
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="90" />
 
 <br>
