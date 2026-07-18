@@ -18,13 +18,15 @@
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50">
-  Welcome to my GitHub!
+  Welcome to my GitHub Profile!
   <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50">
 </h1>
 
 ---
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25" /> About Me
+
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" align="right" />
 
 <div align="center">
 
