@@ -8,11 +8,11 @@
 
 <br><br>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Professor-Bot07&label=Profile+Views&color=6e40c9&style=flat-square)](https://github.com/Professor-Bot07)
+<img src="https://komarev.com/ghpvc/?username=Professor-Bot07&label=Profile+Views&color=6e40c9&style=flat-square" alt="Profile Views" />
 &nbsp;
-[![Followers](https://img.shields.io/github/followers/Professor-Bot07?style=flat-square&color=6e40c9&labelColor=0d1117&label=Followers&logo=github&logoColor=white)](https://github.com/Professor-Bot07)
+<img src="https://img.shields.io/github/followers/Professor-Bot07?style=flat-square&color=6e40c9&labelColor=0d1117&label=Followers&logo=github&logoColor=white" alt="Followers" />
 &nbsp;
-[![Stars](https://img.shields.io/github/stars/Professor-Bot07?style=flat-square&color=ffd700&labelColor=0d1117&label=Stars&logo=github&logoColor=white)](https://github.com/Professor-Bot07)
+<img src="https://img.shields.io/github/stars/Professor-Bot07?style=flat-square&color=ffd700&labelColor=0d1117&label=Stars&logo=github&logoColor=white" alt="Stars" />
 
 </div>
 
@@ -52,8 +52,6 @@ me.say_hi()
 
 </div>
 
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A Little More About Me
-
 <br>
 
 · 🔭 Currently working on Full Stack Web Development
@@ -69,20 +67,6 @@ me.say_hi()
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,react,nextjs,nodejs,express,tailwind,flutter,git,docker,linux,vscode,prisma,mongodb&perline=9" />
-https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black
-https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white
-https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white
-https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black
-https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white
-https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white
-https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white
-https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white
-https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white
-https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black
-https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white
-https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white
-https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white
-https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white
 
 </div>
 
@@ -91,13 +75,28 @@ https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudioco
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25" /> Connect With Me
 
 <div align="center">
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
-https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
-https://img.shields.io/badge/Portfolio-6E40C9?style=for-the-badge&logo=vercel&logoColor=white
+
+<a href="mailto:raihanrifat9721@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://github.com/Professor-Bot07">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/raihan_rifat007">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.facebook.com/raihan_rifat007">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
+<a href="https://www.instagram.com/raihan_rifat007">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://t.me/raihan_rifat007">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
+<a href="https://raihan07.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-6E40C9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
 
 </div>
 
@@ -108,20 +107,26 @@ https://img.shields.io/badge/Portfolio-6E40C9?style=for-the-badge&logo=vercel&lo
 <div align="center">
 
 <br>
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Professor-Bot07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Professor-Bot07&theme=tokyonight&layout=compact&hide_border=true&langs_count=8" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Professor-Bot07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
 
 
 
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Professor-Bot07&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Professor-Bot07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 
 
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Professor-Bot07&theme=tokyo-night&hide_border=true&area=true" width="98%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Professor-Bot07&theme=tokyonight&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" />
+
+
+
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Professor-Bot07&theme=tokyo-night&hide_border=true&area=true" width="98%" alt="Contribution Graph" />
 
 </div>
 
@@ -132,7 +137,8 @@ https://img.shields.io/badge/Portfolio-6E40C9?style=for-the-badge&logo=vercel&lo
 <div align="center">
 
 <br>
-<img src="https://github-profile-trophy.vercel.app/?username=Professor-Bot07&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Professor-Bot07&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" alt="GitHub Trophies" />
 
 </div>
 
@@ -141,17 +147,25 @@ https://img.shields.io/badge/Portfolio-6E40C9?style=for-the-badge&logo=vercel&lo
 🔴 Status
 
 <div align="center">
-https://img.shields.io/badge/STATUS-ACTIVE-6e40c9?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/CODING-DAY%20%26%20NIGHT-39ff14?style=for-the-badge&logo=codeforces&logoColor=black
+
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-6e40c9?style=for-the-badge&logo=github&logoColor=white" alt="Status" />
+<img src="https://img.shields.io/badge/CODING-DAY%20%26%20NIGHT-39ff14?style=for-the-badge&logo=codeforces&logoColor=black" alt="Coding" />
 
 
 
 
 
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="90" />
+<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="90" alt="Coding Cat" />
 
 <br>
-https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black
+
+<a href="https://www.buymeacoffee.com/raihan_rifat007">
+  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee" />
+</a>
+
+
+
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=120&section=footer" />
 
