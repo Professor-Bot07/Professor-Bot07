@@ -6,11 +6,6 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" alt="Coding" />
 </p>
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50">
-  Welcome to my GitHub!
-  <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50">
-</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=raihan_rifat007&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
