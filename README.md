@@ -139,3 +139,71 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=120&section=footer" />
 
 </div>
+
+<div align="center">
+
+# 🧪 GitHub Contribution Effects Test
+
+![Profile Views](https://komarev.com/ghpvc/?username=Professor-Bot07&color=6e40c9&style=flat-square)
+
+---
+
+## 1️⃣ Snake Effect (Original)
+<img src="https://raw.githubusercontent.com/Professor-Bot07/Professor-Bot07/output/github-contribution-grid-snake-dark.svg" width="98%" />
+
+---
+
+## 2️⃣ Matrix Effect
+<img src="https://raw.githubusercontent.com/Professor-Bot07/Professor-Bot07/output/github-contribution-matrix.svg" width="98%" />
+
+---
+
+## 3️⃣ Fire Effect
+<img src="https://raw.githubusercontent.com/Professor-Bot07/Professor-Bot07/output/github-contribution-fire.svg" width="98%" />
+
+---
+
+## 4️⃣ Paint Splash Effect
+<img src="https://raw.githubusercontent.com/Professor-Bot07/Professor-Bot07/output/github-contribution-paint.svg" width="98%" />
+
+---
+
+## 5️⃣ Rain Effect
+<img src="https://raw.githubusercontent.com/Professor-Bot07/Professor-Bot07/output/github-contribution-rain.svg" width="98%" />
+
+---
+
+## 6️⃣ Star Effect
+<img src="https://raw.githubusercontent.com/Professor-Bot07/Professor-Bot07/output/github-contribution-stars.svg" width="98%" />
+
+---
+
+## 7️⃣ Wave Effect
+<img src="https://raw.githubusercontent.com/Professor-Bot07/Professor-Bot07/output/github-contribution-wave.svg" width="98%" />
+
+---
+
+## 8️⃣ Spiral Effect
+<img src="https://raw.githubusercontent.com/Professor-Bot07/Professor-Bot07/output/github-contribution-spiral.svg" width="98%" />
+
+---
+
+## 9️⃣ Particle Effect
+<img src="https://raw.githubusercontent.com/Professor-Bot07/Professor-Bot07/output/github-contribution-particles.svg" width="98%" />
+
+---
+
+## 🔟 Gift Box Effect
+<img src="https://raw.githubusercontent.com/Professor-Bot07/Professor-Bot07/output/github-contribution-gift-box.svg" width="98%" />
+
+---
+
+<div align="center">
+
+**⬇️ কোনটা ভালো লাগে কমেন্ট করে জানাও! ⬇️**
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Professor-Bot07)
+
+</div>
+
+</div>
