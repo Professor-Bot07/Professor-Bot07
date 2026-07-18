@@ -28,12 +28,8 @@
 
 <div align="center">
 
-<!-- Python Code Typing Effect (Terminal Style) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2500&pause=150&color=39FF14&center=true&vCenter=true&width=650&height=150&lines=class+Developer:;....def+__init__(self):;........self.name+=%22Raihan+Ahmed%22;........self.alias+=%22r07%22;........self.role+=%22Full+Stack+Dev%22;........self.location+=%22Bangladesh%22;....def+say_hi(self):;........print(%22Let's+build+something!%22);me+=Developer();me.say_hi()" alt="Typing Python Code" />
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=6E40C9&center=true&vCenter=true&width=500&height=36&lines=%3E+Thanks+for+dropping+by!;%3E+Let's+build+something+amazing." alt="Output" />
+<!-- Info Typing Effect - Line by Line Stay -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=100&color=39FF14&center=true&vCenter=true&width=600&height=250&lines=%F0%9F%91%8B+Name%3A+Raihan+Ahmed;%F0%9F%94%96+Alias%3A+r07;%F0%9F%93%8D+Location%3A+Naogaon%2C+Bangladesh;%F0%9F%92%BB+Role%3A+Full+Stack+Developer;%F0%9F%93%9A+Languages%3A+JS%2C+TS%2C+Python%2C+HTML%2C+CSS;%F0%9F%9A%80+Frameworks%3A+React%2C+Next.js%2C+Node.js;%F0%9F%94%A7+Tools%3A+Git%2C+Docker%2C+Linux%2C+VS+Code;%F0%9F%92%9A+Hobbies%3A+Tech+Exploration%2C+Linux+Tinkering" alt="About Me Info" />
 
 </div>
 
@@ -51,7 +47,6 @@
 
 <div align="center">
 
-<!-- শুধু Rounded Skill Icons (ডাবল বাদ) -->
 <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,react,nextjs,nodejs,express,tailwind,flutter,git,docker,linux,vscode,prisma,mongodb&perline=8" />
 
 </div>
@@ -62,7 +57,6 @@
 
 <div align="center">
 
-<!-- রিয়েল লোগো + গোলাকার আধুনিক ডিজাইন -->
 <a href="mailto:raihanrifat9721@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
 </a>
@@ -95,30 +89,28 @@
 
 <br>
 
-<!-- Stats Card -->
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Professor-Bot07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Professor-Bot07&theme=tokyonight&layout=compact&hide_border=true&langs_count=8" />
 
 <br><br>
 
-<!-- Streak Stats -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Professor-Bot07&theme=tokyonight&hide_border=true" />
 
 <br><br>
 
-<!-- Activity Graph (এখন GIF ওয়ালা) -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Professor-Bot07&theme=tokyo-night&hide_border=true&area=true" width="98%" />
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/26gJz8TEnbsGcthXO/giphy.gif" width="25" /> Random Dev Quote
+## 🐍 Snake Eating My Contributions
 
 <div align="center">
 
-<!-- ট্রফি বাদ দিয়ে মডার্ন কোটা বসালাম -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="98%" />
+<br>
+
+<img src="https://raw.githubusercontent.com/Professor-Bot07/Professor-Bot07/output/github-contribution-grid-snake-dark.svg" width="98%" />
 
 </div>
 
@@ -133,7 +125,6 @@
 
 <br><br>
 
-<!-- Working Gif -->
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="90" />
 
 <br>
