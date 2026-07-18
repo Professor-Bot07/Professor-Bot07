@@ -149,52 +149,52 @@
 ---
 
 ## 1️⃣ Snake Effect (Original)
-<img src="https://raw.githubusercontent.com/Professor-Bot07/Professor-Bot07/output/github-contribution-grid-snake-dark.svg" width="98%" />
+<img src="https://raw.githubusercontent.com/Professor-Bot07/Professor-Bot07/output/snake/github-contribution-grid-snake-dark.svg" width="98%" />
 
 ---
 
 ## 2️⃣ Matrix Effect
-<img src="https://raw.githubusercontent.com/Professor-Bot07/Professor-Bot07/output/github-contribution-matrix.svg" width="98%" />
+<img src="https://raw.githubusercontent.com/Professor-Bot07/Professor-Bot07/output/matrix/github-contribution-matrix.svg" width="98%" />
 
 ---
 
 ## 3️⃣ Fire Effect
-<img src="https://raw.githubusercontent.com/Professor-Bot07/Professor-Bot07/output/github-contribution-fire.svg" width="98%" />
+<img src="https://raw.githubusercontent.com/Professor-Bot07/Professor-Bot07/output/fire/github-contribution-fire.svg" width="98%" />
 
 ---
 
 ## 4️⃣ Paint Splash Effect
-<img src="https://raw.githubusercontent.com/Professor-Bot07/Professor-Bot07/output/github-contribution-paint.svg" width="98%" />
+<img src="https://raw.githubusercontent.com/Professor-Bot07/Professor-Bot07/output/paint/github-contribution-paint.svg" width="98%" />
 
 ---
 
 ## 5️⃣ Rain Effect
-<img src="https://raw.githubusercontent.com/Professor-Bot07/Professor-Bot07/output/github-contribution-rain.svg" width="98%" />
+<img src="https://raw.githubusercontent.com/Professor-Bot07/Professor-Bot07/output/rain/github-contribution-rain.svg" width="98%" />
 
 ---
 
 ## 6️⃣ Star Effect
-<img src="https://raw.githubusercontent.com/Professor-Bot07/Professor-Bot07/output/github-contribution-stars.svg" width="98%" />
+<img src="https://raw.githubusercontent.com/Professor-Bot07/Professor-Bot07/output/star/github-contribution-stars.svg" width="98%" />
 
 ---
 
 ## 7️⃣ Wave Effect
-<img src="https://raw.githubusercontent.com/Professor-Bot07/Professor-Bot07/output/github-contribution-wave.svg" width="98%" />
+<img src="https://raw.githubusercontent.com/Professor-Bot07/Professor-Bot07/output/wave/github-contribution-wave.svg" width="98%" />
 
 ---
 
 ## 8️⃣ Spiral Effect
-<img src="https://raw.githubusercontent.com/Professor-Bot07/Professor-Bot07/output/github-contribution-spiral.svg" width="98%" />
+<img src="https://raw.githubusercontent.com/Professor-Bot07/Professor-Bot07/output/spiral/github-contribution-spiral.svg" width="98%" />
 
 ---
 
 ## 9️⃣ Particle Effect
-<img src="https://raw.githubusercontent.com/Professor-Bot07/Professor-Bot07/output/github-contribution-particles.svg" width="98%" />
+<img src="https://raw.githubusercontent.com/Professor-Bot07/Professor-Bot07/output/particle/github-contribution-particles.svg" width="98%" />
 
 ---
 
 ## 🔟 Gift Box Effect
-<img src="https://raw.githubusercontent.com/Professor-Bot07/Professor-Bot07/output/github-contribution-gift-box.svg" width="98%" />
+<img src="https://raw.githubusercontent.com/Professor-Bot07/Professor-Bot07/output/giftbox/github-contribution-gift-box.svg" width="98%" />
 
 ---
 
