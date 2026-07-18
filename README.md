@@ -105,28 +105,27 @@ me.say_hi()
 
 ---
 
-## <img src="https://media.giphy.com/media/3o7abKhOpu0N9H8N5y/giphy.gif" width="25" /> GitHub Stats
+## <img src="https://media.giphy.com/media/3og0IPO4Ww3vTkBLAw/giphy.gif" width="25" /> GitHub Stats
 
 <div align="center">
 
 <br>
 
-<!-- Stats Cards -->
-<img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Professor-Bot07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<!-- Stats Card -->
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Professor-Bot07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Professor-Bot07&theme=tokyonight&layout=compact&hide_border=true&langs_count=8" />
 
 <br><br>
 
 <!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=Professor-Bot07&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Professor-Bot07&theme=tokyonight&hide_border=true" />
 
 <br><br>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Professor-Bot07&theme=react-dark&hide_border=true&area=true" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Professor-Bot07&theme=tokyo-night&hide_border=true&area=true" width="98%" />
 
 </div>
-
 ---
 
 ## 🏆 GitHub Trophies
