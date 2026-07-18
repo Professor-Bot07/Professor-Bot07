@@ -66,7 +66,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,py,html,css,react,nextjs,nodejs,express,tailwind,flutter,git,docker,linux,vscode,prisma,mongodb&perline=9" />
+<img src="https://skillicons.dev/icons?i=js,ts,py,html,css,react,nextjs,nodejs,express,tailwind,flutter,git,docker,linux,vscode,prisma,mongodb&perline=7" />
 
 <br><br>
 
