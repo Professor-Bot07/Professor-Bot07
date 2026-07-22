@@ -8,11 +8,11 @@
 
 <br><br>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Professor-Bot07&label=Profile+Views&color=6e40c9&style=flat-square)](https://github.com/Professor-Bot07)
+[![Profile Views](https://komarev.com/ghpvc/?username=raihan-rifat007&label=Profile+Views&color=6e40c9&style=flat-square)](https://github.com/raihan-rifat007)
 &nbsp;
-[![Followers](https://img.shields.io/github/followers/Professor-Bot07?style=flat-square&color=6e40c9&labelColor=0d1117&label=Followers&logo=github&logoColor=white)](https://github.com/Professor-Bot07)
+[![Followers](https://img.shields.io/github/followers/raihan-rifat007?style=flat-square&color=6e40c9&labelColor=0d1117&label=Followers&logo=github&logoColor=white)](https://github.com/raihan-rifat007)
 &nbsp;
-[![Stars](https://img.shields.io/github/stars/Professor-Bot07?style=flat-square&color=ffd700&labelColor=0d1117&label=Stars&logo=github&logoColor=white)](https://github.com/Professor-Bot07)
+[![Stars](https://img.shields.io/github/stars/raihan-rifat007?style=flat-square&color=ffd700&labelColor=0d1117&label=Stars&logo=github&logoColor=white)](https://github.com/raihan-rifat007)
 
 </div>
 
@@ -63,7 +63,7 @@
 <a href="mailto:raihanrifat9721@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
 </a>
-<a href="https://github.com/Professor-Bot07">
+<a href="https://github.com/raihan-rifat007">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
 </a>
 <a href="https://www.linkedin.com/in/raihan_rifat007">
@@ -92,16 +92,16 @@
 
 <br>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Professor-Bot07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Professor-Bot07&theme=tokyonight&layout=compact&hide_border=true&langs_count=8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=raihan-rifat007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihan-rifat007&theme=tokyonight&layout=compact&hide_border=true&langs_count=8" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Professor-Bot07&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=raihan-rifat007&theme=tokyonight&hide_border=true" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Professor-Bot07&theme=tokyo-night&hide_border=true&area=true" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=raihan-rifat007&theme=tokyo-night&hide_border=true&area=true" width="98%" />
 
 </div>
 
@@ -113,7 +113,7 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/Professor-Bot07/Professor-Bot07/output/snake/github-contribution-grid-snake-dark.svg" width="98%" />
+<img src="https://raw.githubusercontent.com/raihan-rifat007/raihan-rifat007/output/snake/github-contribution-grid-snake-dark.svg" width="98%" />
 
 </div>
 
